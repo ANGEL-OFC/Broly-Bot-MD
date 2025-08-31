@@ -239,8 +239,8 @@ loadDatabase();/*
 /* ------------------------------------------------*/
 
 global.creds = 'creds.json'
-global.authFile = 'GataBotSession'
-global.authFileJB  = 'GataJadiBot'
+global.authFile = 'BrolyBotSession'
+global.authFileJB  = 'BrolyJadiBot'
 global.rutaBot = join(__dirname, authFile)
 global.rutaJadiBot = join(__dirname, authFileJB)
 const respaldoDir = join(__dirname, 'BackupSession');
