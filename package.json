@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
 
-"homepage": "https://github.com/AngelPeruFachero/Broly-Bot-MD",
+"homepage": "https://github.com/ANGEL-OFC/Broly-Bot-MD",
 "author": {
-"name": "AngelPeruFachero" },
+"name": "ANGEL-OFC" },
 
 "repository": {
 "type": "git",
-"url": "git+https://github.com/AngelPeruFachero/Broly-Bot-MD.git" },
+"url": "git+https://github.com/ANGEL-OFC/Broly-Bot-MD.git" },
 
 "bugs": {
-"url": "https://github.com/AngelPeruFachero/Broly-Bot-MD/issues" },
+"url": "https://github.com/ANGEL-OFC/Broly-Bot-MD/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "github:EdderBot02/bail",
