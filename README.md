@@ -218,12 +218,12 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 
 </details>
 
-> Recuerda leer la **[Política de Broly-Bot. 🌟](https://github.com/AngelPeruFachero/Broly-Bot-MD/blob/master/terms.md)** antes de hacer algo con este repositorio. 
+> Recuerda leer la **[Política de Broly-Bot. 🌟](https://github.com/ANGEL-OFC/Broly-Bot-MD/blob/master/terms.md)** antes de hacer algo con este repositorio. 
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
   
-### 💠 [`IDIOMAS DISPONIBLES PARA BROLYBOT`](https://github.com/AngelPeruFachero/Broly-Bot-MD/blob/master/config.js) 
+### 💠 [`IDIOMAS DISPONIBLES PARA BROLYBOT`](https://github.com/ANGEL-OFC/Broly-Bot-MD/blob/master/config.js) 
 #### 🌐 Español  
 #### 🌐 Inglés (English) 
 #### 🌐 Portugués (Português)
@@ -236,8 +236,8 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <p align="center">
 
 ### 🌟 DESARROLLADORES
-<a href="https://github.com/AngelPeruFachero/Broly-Bot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=AngelPeruFachero/Broly-Bot-MD" /> 
+<a href="https://github.com/ANGEL-OFC/Broly-Bot-MD/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=ANGEL-OFC/Broly-Bot-MD" /> 
 </a>
 
 ### 🌟 AGRADECIMIENTOS
