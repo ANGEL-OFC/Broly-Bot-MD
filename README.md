@@ -2,7 +2,7 @@
 > <b>🚀 VERSIÓN 3.0</b>
 
 <p align="center"> 
-<a href="https://github.com/AngelPeruFachero"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=Broly-Bot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
+<a href="https://github.com/ANGEL-OFC"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=Broly-Bot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -27,9 +27,9 @@
 </p>
 
 <p align="center">   
-<a href="https://github.com/AngelPeruFachero/Broly-Bot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AngelPeruFachero/Broly-Bot-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/AngelPeruFachero/Broly-Bot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/AngelPeruFachero/Broly-Bot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/AngelPeruFachero/Broly-Bot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/AngelPeruFachero/Broly-Bot-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/ANGEL-OFC/Broly-Bot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ANGEL-OFC/Broly-Bot-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/ANGEL-OFC/Broly-Bot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/ANGEL-OFC/Broly-Bot-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/ANGEL-OFC/Broly-Bot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/ANGEL-OFC/Broly-Bot-MD?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 ### Cuentas Oficiales:
@@ -49,14 +49,14 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/AngelPeruFachero/Broly-Bot-MD/master/Broly.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/ANGEL-OFC/Broly-Bot-MD/master/Broly.sh | bash
 ```
 ```js
 // PERSONALIZAR INSTALACIÓN AUTOMÁTICA (En caso de una Bifurcación)
 // Parámetros editables
 
 // REFERENCIA
-"wget -O - https://raw.githubusercontent.com/AngelPeruFachero/Broly-Bot-MD/master/Broly.sh | bash"
+"wget -O - https://raw.githubusercontent.com/ANGEL-OFC/Broly-Bot-MD/master/Broly.sh | bash"
 
 // PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
 "wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/[rama]/Broly.sh | bash"
@@ -65,7 +65,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 ```js
 //LÍNEAS A MODIFICAR
 205 --> "git clone https://github.com/[user]/[repositorio].git"
-//Ejemplo: git clone https://github.com/AngelPeruFachero/Broly-Bot-MD.git
+//Ejemplo: git clone https://github.com/ANGEL-OFC/Broly-Bot-MD.git
 
 209 --> "cd [repositorio]"
 //Ejemplo: cd Broly-Bot-MD
@@ -90,7 +90,7 @@ apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/AngelPeruFachero/Broly-Bot-MD
+git clone https://github.com/ANGEL-OFC/Broly-Bot-MD
 ```
 ```bash
 cd Broly-Bot-MD
@@ -241,8 +241,8 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 </a>
 
 ### 🌟 AGRADECIMIENTOS
-[![TheShadowBrokers1](https://github.com/AngelPeruFachero.png?size=60)](https://github.com/AngelPeruFachero) 
+[![TheShadowBrokers1](https://github.com/ANGEL-OFC?size=60)](https://github.com/ANGEL-OFC) 
 
 ### 🌟 CREADOR 
-[![AngelPeruFachero](https://github.com/AngelPeruFachero.png?size=100)](https://github.com/AngelPeruFachero) 
-> Copyright (c) 2024 **[AngelPeruFachero](https://github.com/AngelPeruFachero/Broly-Bot-MD/blob/master/LICENSE)**.
+[![AngelPeruFachero](https://github.com/ANGEL-OFC?size=100)](https://github.com/ANGEL-OFC) 
+> Copyright (c) 2024 **[AngelPeruFachero](https://github.com/ANGEL-OFC/Broly-Bot-MD/blob/master/LICENSE)**.
