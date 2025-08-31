@@ -26,7 +26,7 @@ say('Broly\nBot\nMD', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Por AngelPeruFachero`, {
+say(`Por ANGEL-OFC`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
